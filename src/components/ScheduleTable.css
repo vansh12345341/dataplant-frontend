@@ -1,0 +1,31 @@
+.external-subject {
+    margin-left:160px
+}
+
+.img-button {
+    cursor: pointer;
+    transition: transform 0.2s;
+    padding-right: 44px;
+  }
+  
+  .img-button:hover {
+    transform: scale(1.1);
+  }
+
+.style{
+    color: #333;
+font-family: Nunito Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.title-styling {
+    color: #333;
+font-family: Nunito Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
